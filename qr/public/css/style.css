@@ -1,0 +1,17 @@
+ul li {
+    display: inline-block;
+    list-style: none;
+}
+
+li a {
+    text-decoration: none;
+    padding-right: 10px;
+}
+
+li a:hover {
+    color: coral;
+}
+
+.errors {
+    color: red;
+}
